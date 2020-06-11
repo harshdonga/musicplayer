@@ -1,0 +1,12 @@
+{
+    "songs": [
+        {
+            "link": "/media/Clean Bandit - Symphony feat. Zara Larsson.mp3",
+            "name": "Clean Bandit - Symphony feat. Zara Larsson.mp3"
+        },
+        {
+            "link": "/media/JP Saxe - If The World Was Ending .mp3",
+            "name": "JP Saxe - If The World Was Ending .mp3"
+        }
+    ]
+}
