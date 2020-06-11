@@ -21,7 +21,7 @@ def index(request):
         data = json.load(f)
     names = list(reversed([x['name'] for x in data['songs']]))
     links = list(reversed([x['link'] for x in data['songs']]))
-    artworks = ['_1', '_2','_3','_4','_5','_6','_7','_8','_9','_10','_11','_12','_13','_14','_15']
+    artworks = ['_1', '_2','_3','_4','_5']
     random.shuffle(artworks)
     data = {}
     data['names'] = names
